@@ -13,14 +13,16 @@
 <p align="left">
 Hi, I'm a backend-focused developer with strong expertise in Ruby, especially the Rails framework. On the frontend, I'm actively developing with ChatGPT integration.<br><br>
 
-📚 I'm currently learning advanced Tailwind and DevOps practices<br>
+📚 I'm currently learning advanced Tailwind CSS and DevOps practices<br>
 🎯 Goals: To build scalable, intelligent systems that solve meaningful problems<br>
-🎲 Fun fact: I once pushed an API key to GitHub by accident 😅
+🎲 Fun fact: I once accidentally pushed an API key to GitHub 😅
 </p>
 
 ###
 
 <h2 align="left">I code with</h2>
+
+###
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="24" />
