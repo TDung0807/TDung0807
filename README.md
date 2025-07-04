@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-Hi, I'm a backend-focused developer with strong expertise in Ruby, especially the Rails framework. On the frontend, I'm actively developing with ChatGPT integration.<br><br>
+Hi, I'm a backend-focused developer with strong expertise in Ruby, especially the Rails framework. On the frontend, I'm actively developing with React & Tailwind <br><br>
 
 📚 I'm currently learning advanced Tailwind CSS and DevOps practices<br>
 🎯 Goals: To build scalable, intelligent systems that solve meaningful problems<br>
