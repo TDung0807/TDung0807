@@ -17,6 +17,13 @@ Hi, I'm a backend-focused developer with strong expertise in Ruby, especially th
 🎯 Goals: To build scalable, intelligent systems that solve meaningful problems<br>
 🎲 Fun fact: I once accidentally pushed an API key to GitHub 😅
 </p>
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [trungdungg0807@gmail.com](mailto:trungdungg0807@gmail.com)  
+- 💼 LinkedIn: [Dũng Nguyễn](https://www.linkedin.com/in/d%C5%A9ng-nguy%E1%BB%85n-2265b0295/)  
+- 🌐 Facebook: [trungdung080703](https://www.facebook.com/trungdung080703)
 
 # 💻 Tech Stack
 
