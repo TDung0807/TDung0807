@@ -8,15 +8,14 @@
 
 <h2 align="left">About me</h2>
 
-###
-
 <p align="left">
-Hi, I'm a backend-focused developer with strong expertise in Ruby, especially the Rails framework. On the frontend, I'm actively developing with React & Tailwind <br><br>
+Hi, I'm a backend-focused developer with strong expertise in Ruby, especially the Rails framework. On the frontend, I'm actively developing with React & Tailwind. I'm also passionate about Artificial Intelligence and aspire to become an AI Engineer, combining my software engineering skills with intelligent systems.<br><br>
 
 📚 I'm currently learning advanced Tailwind CSS and DevOps practices<br>
 🎯 Goals: To build scalable, intelligent systems that solve meaningful problems<br>
 🎲 Fun fact: I once accidentally pushed an API key to GitHub 😅
 </p>
+
 ---
 
 ## 📫 Contact Me
